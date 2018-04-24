@@ -1,0 +1,21 @@
+h1 {
+  border-bottom: 1px solid gray;
+  text-align: center;
+  padding-bottom: 0;
+}
+ol {
+  border-right:1px solid gray;
+  width:200px;
+  float:left;
+  height: 500px;
+}
+#contents {
+  float:left;
+  padding:20px;
+}
+.card {
+  float:rigth;
+}
+#plan2 {
+  height:5000px;
+}
